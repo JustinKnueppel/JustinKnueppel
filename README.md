@@ -17,3 +17,5 @@ Software developer / security developer
 - Javascript
 - Typescript
 - Python
+- Elm
+- Haskell
