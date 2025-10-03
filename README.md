@@ -14,8 +14,8 @@ Software developer / security developer
 
 - Go
 - Rust
-- Javascript
+- OCaml
 - Typescript
-- Python
+- Elixir
 - Elm
 - Haskell
